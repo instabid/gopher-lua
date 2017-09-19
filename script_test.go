@@ -2,7 +2,7 @@ package lua
 
 import (
 	"fmt"
-	"github.com/yuin/gopher-lua/parse"
+	"github.com/instabid/gopher-lua/parse"
 	"os"
 	"testing"
 )
